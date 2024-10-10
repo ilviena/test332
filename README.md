@@ -11,3 +11,6 @@ def outer():
 
 ## Заголовок
 _тест_
+
+## Картинка
+![Cat](https://github.com/ilviena/test332/blob/test/images%20(1).jpeg)
